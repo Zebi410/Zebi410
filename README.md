@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Welcome to my profile!
 
-<!--
-**Zebi410/Zebi410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Aziz Messadia** — Physical Education teacher and sports enthusiast ✨ exploring programming and tech.
+I believe code is like training: consistency builds results. 🏋️‍♂️
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & tools I’m learning
+- Python / JavaScript / HTML / CSS
+- Git & GitHub
+- Data visualization & automation
+
+---
+
+## 🎯 Current goals
+- Publish my first open-source project.
+- Share educational scripts and sport-related ideas in code.
+- Grow a GitHub profile full of useful experiments.
+
+---
+
+## 🌐 Connect
+- GitHub: [Zebi410](https://github.com/Zebi410)
+- Email: your-email@example.com
+- More links: LinkedIn, Portfolio, etc.
+
+---
+
+> “Healthy mind in a healthy body… and clean code in a well‑organized project.”
